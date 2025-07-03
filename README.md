@@ -33,6 +33,15 @@ guide product improvement, marketing strategies, and customer engagement.
   - How many products have fewer than 1,000 reviews?
   - Which categories have products with the highest discounts?
   - Identify the top 5 products in terms of rating and number of reviews combined.
+ 
+- The product category field was split into five subcategories using Excel's Text to Columns feature.
+- The first four extracted categories were merged back into the main dataset and renamed for clarity.
+- Analysis was primarily conducted on the main category to allow for concise and meaningful pivot table summaries.
+
+  ### Analytical Techniques
+- Excel’s IF function was used to identify products with 50% or more discount.
+- COUNTIF function calculated the total count of such discounted products.
+- Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
 
 
 
