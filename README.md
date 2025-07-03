@@ -28,11 +28,11 @@ guide product improvement, marketing strategies, and customer engagement.
 4.0, etc.)?
   - What is the total potential revenue (actual_price × rating_count) by category?
   - 10. What is the number of unique products per price range bucket (e.g., <₹200,
-₹200–₹500, >₹500)?
- - How does the rating relate to the level of discount?
- - How many products have fewer than 1,000 reviews?
- - Which categories have products with the highest discounts?
- - Identify the top 5 products in terms of rating and number of reviews combined.
+   ₹200–₹500, >₹500)?
+  - How does the rating relate to the level of discount?
+  - How many products have fewer than 1,000 reviews?
+  - Which categories have products with the highest discounts?
+  - Identify the top 5 products in terms of rating and number of reviews combined.
 
 
 
