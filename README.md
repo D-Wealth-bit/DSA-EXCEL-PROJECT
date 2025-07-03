@@ -43,6 +43,8 @@ guide product improvement, marketing strategies, and customer engagement.
 - COUNTIF function calculated the total count of such discounted products.
 - Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
 
+  
+
 
 
 
