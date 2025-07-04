@@ -29,21 +29,6 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 - Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
 
   ### Analysis
-![POWER BI CHART 1](https://github.com/user-attachments/assets/6b6fe336-bca2-4bcd-817f-3e04337c98d4)
-![POWER BI CHART 2](https://github.com/user-attachments/assets/172871d9-7c4d-42b8-ba1e-c1373bd72c41)
-![POWER BI CHART 3](https://github.com/user-attachments/assets/3bb348e4-2f72-4fee-9441-339d29ec154f)
-
-![POWER BI CHART 4](https://github.com/user-attachments/assets/1e1944c8-9169-44b5-a13c-f2a46a1db3ff)
-![POWER BI CHART 5](https://github.com/user-attachments/assets/5b5f6f57-ddd3-4839-8d8d-efa1a9fe1087)
-![POWER BI CHART 6](https://github.com/user-attachments/assets/54fbc7ac-2c5f-4018-af5a-1e043d7e8769)
-
-![POWER BI CHART 7](https://github.com/user-attachments/assets/54875c2f-2cad-4490-96df-a88c3cdfb0ea)
-
-![POWER BI CHART 8](https://github.com/user-attachments/assets/132459a6-5c77-4643-9aa1-6a804d53548e)
-
-![POWER BI CHART 9](https://github.com/user-attachments/assets/b36ede34-0c73-4a58-9de3-8d3a4cf66ecb)
-
-
   I was able to get answers to the following questions using Excel for analysis
   
   - What is the average discount percentage by product category?
@@ -148,6 +133,21 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 - This reflects good gender diversity, with room to further promote inclusion for underrepresented groups.
   
 ### Analysis
+
+![POWER BI CHART 1](https://github.com/user-attachments/assets/6b6fe336-bca2-4bcd-817f-3e04337c98d4)
+![POWER BI CHART 2](https://github.com/user-attachments/assets/172871d9-7c4d-42b8-ba1e-c1373bd72c41)
+![POWER BI CHART 3](https://github.com/user-attachments/assets/3bb348e4-2f72-4fee-9441-339d29ec154f)
+
+![POWER BI CHART 4](https://github.com/user-attachments/assets/1e1944c8-9169-44b5-a13c-f2a46a1db3ff)
+![POWER BI CHART 5](https://github.com/user-attachments/assets/5b5f6f57-ddd3-4839-8d8d-efa1a9fe1087)
+![POWER BI CHART 6](https://github.com/user-attachments/assets/54fbc7ac-2c5f-4018-af5a-1e043d7e8769)
+
+![POWER BI CHART 7](https://github.com/user-attachments/assets/54875c2f-2cad-4490-96df-a88c3cdfb0ea)
+
+![POWER BI CHART 8](https://github.com/user-attachments/assets/132459a6-5c77-4643-9aa1-6a804d53548e)
+
+![POWER BI CHART 9](https://github.com/user-attachments/assets/b36ede34-0c73-4a58-9de3-8d3a4cf66ecb)
+
 
 ### Departmental Gender Representation
 - The Service and Training departments have the highest gender diversity.
