@@ -17,6 +17,20 @@ guide product improvement, marketing strategies, and customer engagement.
  
 ### Data cleaning and preparation
 - In the initial phase of the data cleaning and preparations, we perform the following;
+  
+- The product category field was split into five subcategories using Excel's Text to Columns feature.
+- The first four extracted categories were merged back into the main dataset and renamed for clarity.
+- Analysis was primarily conducted on the main category to allow for concise and meaningful pivot table summaries.
+
+  ### Analytical Techniques
+- Excel’s IF function was used to identify products with 50% or more discount.
+- COUNTIF function calculated the total count of such discounted products.
+- Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
+
+  ### Analysis
+
+  I was able to get answers to the following questions using Excel for analysis
+  
   - What is the average discount percentage by product category?
   - How many products are listed under each category?
   - What is the total number of reviews per category?
@@ -34,16 +48,6 @@ guide product improvement, marketing strategies, and customer engagement.
   - Which categories have products with the highest discounts?
   - Identify the top 5 products in terms of rating and number of reviews combined.
  
-- The product category field was split into five subcategories using Excel's Text to Columns feature.
-- The first four extracted categories were merged back into the main dataset and renamed for clarity.
-- Analysis was primarily conducted on the main category to allow for concise and meaningful pivot table summaries.
-
-  ### Analytical Techniques
-- Excel’s IF function was used to identify products with 50% or more discount.
-- COUNTIF function calculated the total count of such discounted products.
-- Pivot tables and summary statistics were created to explore patterns in rating counts and discount levels.
-
-  ### Analysis
 
 ![PIVOT TABLE 1](https://github.com/user-attachments/assets/3f26f2f8-81f1-4650-a032-460791226641)
 
