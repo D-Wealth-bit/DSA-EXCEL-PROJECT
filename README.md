@@ -54,6 +54,7 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 ![PIVOT TABLE 2](https://github.com/user-attachments/assets/95611df5-1efe-4bde-97aa-006556da1eaa)
 
+
 ![PIVOT TABLE 3](https://github.com/user-attachments/assets/42d469aa-acea-4992-b7da-2f2ddf69d65d)
 
 ![PIVOT TABLE 4](https://github.com/user-attachments/assets/2b485f41-b749-454d-9000-e57f724ccae0)
