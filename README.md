@@ -16,7 +16,8 @@ guide product improvement, marketing strategies, and customer engagement.
   - For creating a report
  
 ### Data cleaning and preparation
-- In the initial phase of the data cleaning and preparations, we perform the following;
+
+In the initial phase of the data cleaning and preparations, we perform the following;
   
 - The product category field was split into five subcategories using Excel's Text to Columns feature.
 - The first four extracted categories were merged back into the main dataset and renamed for clarity.
@@ -72,8 +73,16 @@ guide product improvement, marketing strategies, and customer engagement.
 
 ### Interpretation
 
-- Encourage Detailed Reviews
- -Prompt buyers to leave comprehensive reviews, especially for discounted items, to balance the perceived value and boost engagement.
+- Higher discounts are generally associated with reduced customer rating activity.- Encourage Detailed Reviews
+
+- This may indicate that deeply discounted products are either overlooked or not perceived as strongly, reducing the likelihood of reviews.
+
+- In contrast, full-price or minimally discounted items may trigger greater engagement, possibly due to higher customer expectations.
+
+### Recommendation
+
+ - Encourage Detailed Reviews
+  -Prompt buyers to leave comprehensive reviews, especially for discounted items, to balance the perceived value and boost engagement.
 
 - Target High-Engagement Users
  -Identify and engage customers who leave longer or more detailed reviews, as they tend to be more invested in the brand and products.
