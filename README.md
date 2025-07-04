@@ -13,7 +13,7 @@ guide product improvement, marketing strategies, and customer engagement.
 - Ms Excel [Download here](www.microsoft.com)
   - For Data Collection
   - For analysis
-  - For creatig a report
+  - For creating a report
  
 ### Data cleaning and preparation
 - In the initial phase of the data cleaning and preparations, we perform the following;
