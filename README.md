@@ -11,9 +11,9 @@ guide product improvement, marketing strategies, and customer engagement.
 
 ### Tool used
 - Ms Excel [Download here](www.microsoft.com)
-  -For Data Collection
-  -For analysis
-  -For creating a report
+   - For Data Collection
+   - For analysis
+   - For creating a report
  
 ### Data cleaning and preparation
 
