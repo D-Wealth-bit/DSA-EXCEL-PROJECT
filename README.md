@@ -69,7 +69,7 @@ guide product improvement, marketing strategies, and customer engagement.
 ### Interpretation
 
 - Encourage Detailed Reviews
- - Prompt buyers to leave comprehensive reviews, especially for discounted items, to balance the perceived value and boost engagement.
+ -Prompt buyers to leave comprehensive reviews, especially for discounted items, to balance the perceived value and boost engagement.
 
 - Target High-Engagement Users
  -Identify and engage customers who leave longer or more detailed reviews, as they tend to be more invested in the brand and products.
