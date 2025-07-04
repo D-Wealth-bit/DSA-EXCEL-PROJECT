@@ -95,6 +95,75 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 
 
+# DSA-POWER BI-PROJECT
+
+This work is on the DSA Power BI project using Palmora group employee and bonus rules Data
+
+## Project Topic-Palmora group review using Power Bi 
+
+### Project Overview
+
+This data aims to analyse the company data and generate insights that the Palmoria management team would need to address, should be visualised using appropriate charts. The focus should be on gender-related issues within the organization and its regions.
+
+### Tool used
+
+- Power Bi[Download here](www.microsoft.com)
+ - For Data Cleaning
+ - For analysis and visualization
+ - For creating a report
+    
+### Data cleaning and preparation
+	
+In the initial phase of the data cleaning and preparations, we perform the following;
+
+- A generic gender status was assigned to employees who chose not to disclose their gender, ensuring completeness in the gender column
+- Employees without salary entries—primarily those who are no longer with the company—were excluded from the dataset to maintain accuracy.
+- Departments labeled as “NULL” were also removed to achieve 100% column quality and avoid distortion in departmental analysis.
+- In alignment with the case study requirements, which reference regions rather than locations, the column header Location was renamed to Region.
+- To maintain data integrity throughout the transformation process, the ‘Keep Rows’ function was applied to permanently exclude rows with null values, preventing them from reappearing in the cleaned dataset.
+- Employee records were grouped by attributes such as Gender, Department, Rating, Region, and Salary Band.
+- Visualizations such as bar charts, pie charts, and clustered column charts were used to identify patterns in distribution and diversity.
+- Filters and slicers were likely used to refine cross-segment insights.
+  
+### Summary of Findings
+
+#### Gender Distribution
+- Females account for the largest gender group (55.32%).
+- Males make up 40.43%, while Others represent a small minority (2.26%).
+- This reflects good gender diversity, with room to further promote inclusion for underrepresented groups.
+  
+### Analysis
+
+### Departmental Gender Representation
+- The Service and Training departments have the highest gender diversity.
+- Legal, Product Management, and Engineering departments also show a strong mix, though some departments (e.g., Support) have lower representation overall.
+- Female presence appears strong across departments, with minimal inclusion of "Others".
+
+### Rating and Gender
+- A significant portion of the dataset is "Not Rated":
+- Females dominate the unrated group, indicating a potential gap in performance review completion or transparency.
+- This may affect career progression, morale, and development tracking.
+
+### Recommendations
+- Improve Rating Completion
+  - Ensure that all employees receive regular and documented performance ratings.
+  - Use this data for feedback, training plans, and promotion considerations.
+- Promote Departmental Balance
+  - Encourage cross-departmental inclusion programs where gender representation is low (e.g., Support, Accounting).
+  - Introduce mentorship or diversity hiring initiatives in underrepresented departments.
+- Address Salary Band Disparities
+  - Conduct a pay equity audit across salary bands and regions.
+  - Ensure fair compensation practices that reflect qualifications, contributions, and roles regardless of gender.
+- Increase Representation of Minority Groups
+  - Explore and expand efforts to support "Others" gender identity category through inclusive policies and safe reporting environments.
+
+
+
+
+
+
+
+
 
 
 
